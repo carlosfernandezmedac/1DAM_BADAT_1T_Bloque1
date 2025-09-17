@@ -10,7 +10,7 @@
 
 ## 📂 Estructura del Bloque
 
-- `Teoria.md`: Resumen teórico del bloque (puedes añadir tus propios apuntes).
+- `Teoria.md`: Resumen teórico de cada tema del bloque (puedes añadir tus propios apuntes).
 - Carpeta individual para cada ejercicio, conteniendo su enunciado.
 - Las soluciones de cada ejercicio deberán subirse en su carpeta correspondiente, siguiendo las indicaciones.
 
